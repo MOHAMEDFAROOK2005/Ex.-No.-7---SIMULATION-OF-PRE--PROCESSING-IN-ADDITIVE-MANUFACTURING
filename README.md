@@ -43,8 +43,8 @@
 ![image](https://github.com/Raji1009/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/15bce04a-2795-4249-9377-72085bf82cf4)
 
 
-### Name: Rajalakshmi R
-### Register Number: 23013958
+### Name: MOHAMED FAROOK S
+### Register Number: 23014058
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
